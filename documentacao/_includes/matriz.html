@@ -1,0 +1,32 @@
+
+{% assign matriz = false %}
+
+{% for p in site.docs %}
+  {% if p.impacto %}
+    {% assign matriz = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if matriz %}
+<table>
+<tr>
+  <th style:"width:200px;"> Módulo </th>
+  <th colspan="100%"> Impacta em: </th>
+</tr>
+{% for page in site.docs %}
+  {% if page.impacto %}
+    <tr>
+      <td> {{ page.title }} </td>
+      {% for imp in page.impacto %}
+        <td {% if forloop.last %} colspan="100%" {% endif %}> {% link {{ imp }} %}</td>
+      {% endfor %}
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+{% else %}
+
+<h2> Não há definição de impacto entre requisitos ! </h2>
+
+{% endif %}

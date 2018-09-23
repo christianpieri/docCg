@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+  {% for page in site.docs %}
+   {
+     {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}"
+        {% comment %}
+        "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}"
+        {% endcomment %}
+     {% endif %}
+   } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
