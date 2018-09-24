@@ -1,3 +1,7 @@
+Utilizando o Cayman theme para fins educacionais e não lucrativos.
+Todos os direitos reservados para o criador do tema.
+
+
 # The Cayman theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
