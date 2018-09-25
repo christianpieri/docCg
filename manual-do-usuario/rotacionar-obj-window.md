@@ -9,7 +9,8 @@ Aqui será detalhado como rotacionar um objeto em específico ou a window
 ##### Rotacionando um objeto selecionado
 1. Selecione o objeto que você deseja rotacionar na lista de objetos;
 2. Na janela principal, clique no botão de rotação (à direta ou à esquerda);
-3. Será aberto uma modal, como demonstrado abaixo, com as instruções de rotação;
+3. Será aberto uma modal, como demonstrado abaixo, com as instruções de rotação:
+![Rotacionar](../img/rotacionar-objeto.png)
 4. Você pode escolher um dos 3 ângulos pré-definidos ou digitar um outro qualquer;
 5. Você poderá escolher rotacionar seu objeto:
 - 5.1 Ao redor do centro do mundo: Ponto(0, 0);

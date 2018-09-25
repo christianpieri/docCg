@@ -8,6 +8,7 @@ Aqui será detalhado como limpar a tela e excluir todos os objetos
 
 1. Na janela principal, clique em Limpar Tela;
 2. Abrirá uma modal de alerta e confirmação como mostrado abaixo:
+![Limpar tela](../img/limpar-tela-confirmacao.png)
 3. Ao clicar em "Sim", todos os objetos serão excluídos e a tela será limpa;
 4. A lista de objetos também será esvaziada;
 5. No console, abaixo da caixa de desenho, aparecerá a quantidade de objetos deletados.

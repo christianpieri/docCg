@@ -8,11 +8,13 @@ Aqui será detalhado como editar um objeto
 
 1. Na janela principal, selecione um objeto da lista de objetos;
 2. Ainda na janela principal, clique em Editar Objeto;
-3. Ao editar o objeto, você pode escolher entre transladá-lo e escaloná-lo;
-4. Ao escolher transladar, informe quantos x e y você deseja deslocá-lo;
-5. Ao escolher escaloná-lo, informe quantos % você deseja modificá-lo;
-- 5.1 Ex: dobrar de tamanho - 200%; reduzir a metade - 50%;
-6. Feito isto, clique em salvar.
+3. Abrirá a modal de edição como mostrado abaixo:
+![Editar](../img/editar-objeto.png)
+4. Ao editar o objeto, você pode escolher entre transladá-lo e escaloná-lo;
+5. Ao escolher transladar, informe quantos x e y você deseja deslocá-lo;
+6. Ao escolher escaloná-lo, informe quantos % você deseja modificá-lo;
+- 6.1 Ex: dobrar de tamanho - 200%; reduzir a metade - 50%;
+7. Feito isto, clique em salvar.
 
 
 
