@@ -8,7 +8,7 @@ Ela será dividida em duas partes: um manual do usuário e a documentação em s
 
 [Manual do usuário](./manual-do-usuario)
 
-[Documentação](url da doc aqui)
+[Documentação](./documentacao)
 
 
 

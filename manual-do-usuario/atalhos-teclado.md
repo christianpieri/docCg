@@ -22,4 +22,4 @@ Aqui será detalhado como utilizar os atalhos do seu teclado
 
 
 <br>
-[Voltar](./manual-do-usuario)
+[Voltar](./)

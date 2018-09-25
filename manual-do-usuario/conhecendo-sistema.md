@@ -5,8 +5,9 @@ layout: default
 ## Conhecendo o sistema
 
 Aqui serão detalhados todas as áreas e botões do sistema
-![Sistema](./img/conhecendo-sistema.png)
 
+
+![Sistema](../img/conhecendo-sistema.png)
 1. Caixa de botões de desenho;
 2. Botão de clipping;
 3. Botões da caixa de controle;
@@ -17,4 +18,4 @@ Aqui serão detalhados todas as áreas e botões do sistema
 
 
 <br>
-[Voltar](./manual-do-usuario)
+[Voltar](./)

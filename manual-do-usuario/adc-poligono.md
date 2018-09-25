@@ -11,7 +11,7 @@ Aqui será detalhado como adicionar um objeto do tipo polígono
 3. Nesta modal digite as coordenadas de um ponto do seu novo polígono;
 4. Clique em adicionar ponto e repita o passo 3 até terminar todos os pontos do seu polígono;
 5. Dê um nome a ele e clique em salvar;
-6. Ela será desenhado e aparecerá na lista de objetos, logo abaixo da caixa de controle.
+6. Ele será desenhado e aparecerá na lista de objetos, logo abaixo da caixa de controle.
 
 
 Nota: um polígono de apenas 1 coordenada, será desenhado um ponto.
@@ -21,4 +21,4 @@ Não é necessário digitar o ponto inicial novamente, o sistema completará o d
 
 
 <br>
-[Voltar](./manual-do-usuario)
+[Voltar](./)

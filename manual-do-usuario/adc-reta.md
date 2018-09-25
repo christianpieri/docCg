@@ -11,10 +11,10 @@ Aqui será detalhado como adicionar um objeto do tipo reta
 3. Nesta modal digite as coordenadas da sua nova reta;
 * 3.1 A reta será desenhada a partir do ponto inicial até alcançar o ponto final
 4. Dê um nome a ela e clique em salvar;
-5. Ela será desenhado e aparecerá na lista de objetos, logo abaixo da caixa de controle.
+5. Ela será desenhada e aparecerá na lista de objetos, logo abaixo da caixa de controle.
 
 
 
 
 <br>
-[Voltar](./manual-do-usuario)
+[Voltar](./)

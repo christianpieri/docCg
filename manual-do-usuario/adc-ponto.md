@@ -16,4 +16,4 @@ Aqui será detalhado como adicionar um objeto do tipo ponto
 
 
 <br>
-[Voltar](./manual-do-usuario)
+[Voltar](./)

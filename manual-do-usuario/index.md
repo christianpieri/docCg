@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Bem-vindo ao manual do usuário
+## Bem-vindo ao manual do usuário!
 
 Aqui serão detalhados todas as funcionalidades do sistema gráfico interativo e como utilizá-las.
 
@@ -18,10 +18,10 @@ Aqui serão detalhados todas as funcionalidades do sistema gráfico interativo e
 #### [Clippando a tela](./clippando-tela)
 #### [Zoom In e Zoom Out](./zoom-in-out)
 #### [Deslocar tela](./deslocar-tela)
-#### [Salvando e carregando objetos](./salvar-carregar-objeto)
+#### [Salvando e carregando objetos em arquivo](./salvar-carregar-objeto)
 #### [Atalhos do teclado](./atalhos-teclado)
 
 
 
 <br>
-[Voltar](./)
+[Voltar](../)
