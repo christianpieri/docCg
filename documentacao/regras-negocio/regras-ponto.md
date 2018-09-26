@@ -21,10 +21,11 @@ Este requisito descreve os comportamentos da tela de criação de pontos.
 2. Ao tentar digitar qualquer outro valor que não seja numérico, o campo altera seu valor para 0;
 3. Se o usuário não entrar com valor algum, entende-se que o valor será 0;
 4. O campo nome é de caráter obrigatório e se não for fornecido deve-se apresentar a mensagem: [Campos obrigatórios não preenchidos](./mensagens/campo-obg-n-preenc);
-5. Ao clicar em salvar, o sistema deverá:
+5. Caso o usuário forneça um nome de ponto já existente, apresentar a mensagem: [Nome de objeto já existente](./mensagens/nome-ja-existente);
+6. Ao clicar em salvar, o sistema deverá:
 - desenhar um objeto do tipo ponto respeitando as coordenadas fornecidas pelo usuário;
 - salvar este objeto juntamente ao seu tipo na lista de objetos desenhados;
-6. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de ponto cancelada!".
+7. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de ponto cancelada!".
 
 <br>
 [Voltar](./)
