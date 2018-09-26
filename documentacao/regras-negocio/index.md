@@ -18,7 +18,8 @@ Aqui serão detalhados todas as regras de negócio do programa.
 #### [Clipping](./regras-clipping)
 #### [Zoom In /](./regras-zoom-in)  [Zoom Out](./regras-zoom-out)
 #### [Deslocar Tela](./regras-deslocar)
-#### [Rotação de Tela e de Objeto](./regras-rotacao)
+#### [Rotação de Tela](./regras-rotacao-tela)
+#### [Rotação de Objetos](./regras-rotacao-obj)
 #### [Salvar /](./regras-salvar) [Carregar Arquivo](./regras-carregar)
 #### [Mensagens](./mensagens)
 
