@@ -14,9 +14,9 @@ Aqui será detalhado como importar ou exportar um arquivo .obj
 4. Por default o arquivo será "saida.obj".
 
 ##### Carregar arquivo
-1. Ao abrir o programa, você pode querer carregar um desenho que já fez anteriormente;
+1. Ao abrir o programa, você pode querer carregar um desenho que já existe anteriormente;
 2. Para isso, clique em carregar;
-3. Por default, ele procurará o arquivo "saida.obj" e pegará os objetos deste arquivo;
+3. Por padrão, ele procurará o arquivo "saida.obj" e pegará os objetos deste arquivo;
 4. Todos os objetos deste arquivo serão desenhados na tela de desenho.
 
 

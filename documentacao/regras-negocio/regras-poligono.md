@@ -30,7 +30,7 @@ Este requisito descreve os comportamentos da tela de criação de polígonos.
 - traçar uma última linha do ponto final fornecido pelo usuário até o ponto inicial, afim de fechar o desenho;
 - salvar este objeto juntamente ao seu tipo na lista de objetos desenhados;
 7. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de polígono cancelada!".
-8. O helper de contexto ajuda o usuário, que, ao passar o mouse em cima, obtém a seguinte mensagem: "Você precisa adicionar ao menos 1 ponto ao seu polígono. Ao criar um polígono com apenas 1 coordenada, ele será desenhado como um ponto. Ao criar um polígono com 2 coordenadas, será desenhada uma reta."
+8. O _helper_ de contexto ajuda o usuário, que, ao posicionar o mouse em cima do _widget_, disponibiliza a seguinte _hint_: "Você precisa adicionar ao menos 1 ponto ao seu polígono. Ao criar um polígono com apenas 1 coordenada, ele será desenhado como um ponto. Ao criar um polígono com 2 coordenadas, será desenhada uma reta."
 
 ![Helper Contexto](./img/helper-contexto.png)
 

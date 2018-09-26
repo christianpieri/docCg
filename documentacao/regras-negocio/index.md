@@ -13,7 +13,7 @@ Aqui serão detalhados todas as regras de negócio do programa.
 #### [Desenhar Curva](./regras-curva)
 #### [Transformada de ViewPort](./regras-transformada)
 #### [Editar Objeto](./regras-editar)
-#### [Limpar Limpar](./regras-limpar-tela)
+#### [Limpar Tela](./regras-limpar-tela)
 #### [Deletar Objeto](./regras-deletar)
 #### [Clipping](./regras-clipping)
 #### [Redefinir Zoom](./regras-zoom)
