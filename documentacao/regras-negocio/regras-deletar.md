@@ -18,5 +18,8 @@ Este requisito descreve os comportamentos do botão de deletar objetos.
 - e internamente deve ser deletado do sistema;
 3. Ao deletar um objeto com sucesso, montar a seguinte mensagem e mostrá-la no console: "O + tipo do objeto + nome do objeto + foi deletado."
 
+##### Atalho
+1. Alternativamente, o usuário poderá fazer uso da tecla de atalho **Delete** presente no seu teclado. O comportamento deve ser idêntico ao descrito no clique do botão.
+
 <br>
 [Voltar](./)

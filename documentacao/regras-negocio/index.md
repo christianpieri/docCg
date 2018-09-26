@@ -16,7 +16,7 @@ Aqui serão detalhados todas as regras de negócio do programa.
 #### [Limpar Tela](./regras-limpar-tela)
 #### [Deletar Objeto](./regras-deletar)
 #### [Clipping](./regras-clipping)
-#### [Redefinir Zoom](./regras-zoom)
+#### [Zoom In /](./regras-zoom-in)  [Zoom Out](./regras-zoom-out)
 #### [Deslocar Tela](./regras-deslocar)
 #### [Rotação de Tela e de Objeto](./regras-rotacao)
 #### [Importação/Exportação Arquivo](./regras-salvar-carregar)
