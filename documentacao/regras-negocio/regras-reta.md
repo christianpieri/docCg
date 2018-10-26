@@ -28,6 +28,7 @@ Este requisito descreve os comportamentos da tela de criação de retas.
 6. Ao clicar em salvar, o sistema deverá:
 - desenhar um objeto do tipo reta respeitando as coordenadas fornecidas pelo usuário, traçando uma linha contínua do ponto inicial até o ponto final;
 - salvar este objeto juntamente ao seu tipo na lista de objetos desenhados;
+- caso o clipping esteja ativado, verificar qual(is) parte(s) da reta devem ou não serem desenhadas;
 7. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de reta cancelada!".
 
 <br>

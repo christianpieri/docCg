@@ -25,6 +25,7 @@ Este requisito descreve os comportamentos da tela de criação de pontos.
 6. Ao clicar em salvar, o sistema deverá:
 - desenhar um objeto do tipo ponto respeitando as coordenadas fornecidas pelo usuário;
 - salvar este objeto juntamente ao seu tipo na lista de objetos desenhados;
+- caso o clipping esteja ativado, deverá ser feito verificação se este objeto será desenhado;
 7. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de ponto cancelada!".
 
 <br>

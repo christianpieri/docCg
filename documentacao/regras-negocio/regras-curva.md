@@ -34,6 +34,7 @@ Este requisito descreve os comportamentos da tela de criação de curvas.
 11. Ao clicar em salvar, o sistema deverá:
 - desenhar um objeto do tipo curva respeitando as coordenadas fornecidas pelo usuário;
 - salvar este objeto juntamente ao seu tipo na lista de objetos desenhados;
+- caso o clipping esteja ativado, verificar qual(is) parte(s) da curva devem ou não serem desenhadas;
 12. Ao clicar em cancelar apresentar a mensagem no console: "Inclusão de curva cancelada!".
 13. O _helper_ de contexto ajuda o usuário, que, ao posicionar o mouse em cima do _widget_, disponibiliza a seguinte _hint_: "Alterne entre os _radio buttons_ para escolher entre Bezier ou b-Spline.
 Bezier precisa ter múltiplos de 4 pontos. b-Spline precisa ter no mínimo 4 pontos.".
